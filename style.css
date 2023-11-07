@@ -1,0 +1,26 @@
+h3
+{
+  font-size: 25px !important;
+}
+.btn-success:hover
+{
+  background-color: rgb(160, 250, 235);
+}
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: serif;
+}
+
+
+@keyframes example {
+
+from {box-shadow: 1px 1px 38px rgb(95, 0, 0);}
+to {box-shadow: 1px 1px 38px rgb(238, 234, 174);}
+
+}
+body {
+  background-image: url(download.jpeg) ;
+    font-family:"Times New Roman";
+  }
+
